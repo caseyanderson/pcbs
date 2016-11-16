@@ -146,12 +146,14 @@
 <wire x1="51.74" y1="-4.064" x2="51.74" y2="38.598" width="0" layer="20"/>
 <wire x1="51.74" y1="38.598" x2="0" y2="38.598" width="0" layer="20"/>
 <wire x1="0" y1="38.598" x2="0" y2="-4.064" width="0" layer="20"/>
-<text x="42.418" y="27.178" size="0.6096" layer="21" font="vector" ratio="15">lm386 amp
-version 2
+<text x="37.592" y="29.21" size="0.8128" layer="21" font="vector" ratio="15">lm386 amp
+version 3
 
 winter 2016
 caseyanderson.com
 awavepress.com</text>
+<text x="7.366" y="1.27" size="0.6096" layer="21" font="vector" ratio="15">input</text>
+<text x="41.402" y="1.27" size="0.6096" layer="21" font="vector" ratio="15">output</text>
 </plain>
 <libraries>
 <library name="SparkFun-Passives">
@@ -663,7 +665,7 @@ Yageo CFR series &lt;a href="http://www.yageo.com/pdf/yageo/Leaded-R_CFR_2008.pd
 <attribute name="MPN" value="" x="0.508" y="20.828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_NEWARK" value="unknown" x="0.508" y="20.828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MF" value="" x="0.508" y="20.828" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="0.508" y="25.908" size="0.6096" layer="25" font="vector" ratio="15"/>
+<attribute name="NAME" x="1.016" y="24.13" size="0.6096" layer="25" font="vector" ratio="15"/>
 <attribute name="VALUE" x="0.508" y="14.478" size="1.778" layer="27"/>
 </element>
 <element name="U$1" library="SparkFun-Electromechanical" package="STAND-OFF" value="" x="3.302" y="35.56"/>

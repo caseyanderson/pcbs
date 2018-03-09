@@ -146,7 +146,7 @@
 <wire x1="51.74" y1="-4.064" x2="51.74" y2="38.598" width="0" layer="20"/>
 <wire x1="51.74" y1="38.598" x2="0" y2="38.598" width="0" layer="20"/>
 <wire x1="0" y1="38.598" x2="0" y2="-4.064" width="0" layer="20"/>
-<text x="39.624" y="30.48" size="0.6096" layer="21" font="vector" ratio="15">lm386 amp
+<text x="37.592" y="29.21" size="0.8128" layer="21" font="vector" ratio="15">lm386 amp
 version 3
 
 winter 2016

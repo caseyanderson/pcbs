@@ -449,17 +449,17 @@ Yageo CFR series &lt;a href="http://www.yageo.com/pdf/yageo/Leaded-R_CFR_2008.pd
 <class number="0" name="default" width="0" drill="0">
 </class>
 </classes>
-<designrules name="Othermill-DRC-1-32">
-<description language="en">&lt;b&gt;Othermill EAGLE Design Rules v2&lt;/b&gt;&lt;p&gt;DRC for Othermill, 1/32&quot; tool&lt;/p&gt;&lt;b&gt;-- Rules --&lt;/b&gt;&lt;li&gt;8 mil traces&lt;/li&gt;&lt;li&gt;31.26mil clearance&lt;/li&gt;</description>
+<designrules name="Othermill-DRC-1-64">
+<description language="en">&lt;b&gt;Othermill EAGLE Design Rules v2&lt;/b&gt;&lt;p&gt;DRC for Othermill, 1/64&quot; tool&lt;/p&gt;&lt;b&gt;-- Rules --&lt;/b&gt;&lt;li&gt;8 mil traces&lt;/li&gt;&lt;li&gt;15.7mil clearance&lt;/li&gt;</description>
 <param name="layerSetup" value="(1*16)"/>
 <param name="mtCopper" value="0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm 0.035mm"/>
 <param name="mtIsolate" value="1.5mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm 0.15mm 0.2mm"/>
-<param name="mdWireWire" value="0.794003125mm"/>
-<param name="mdWirePad" value="0.794003125mm"/>
-<param name="mdWireVia" value="0.794003125mm"/>
-<param name="mdPadPad" value="0.794003125mm"/>
-<param name="mdPadVia" value="0.794003125mm"/>
-<param name="mdViaVia" value="0.794003125mm"/>
+<param name="mdWireWire" value="0.39878125mm"/>
+<param name="mdWirePad" value="0.39878125mm"/>
+<param name="mdWireVia" value="0.39878125mm"/>
+<param name="mdPadPad" value="0.39878125mm"/>
+<param name="mdPadVia" value="0.39878125mm"/>
+<param name="mdViaVia" value="0.39878125mm"/>
 <param name="mdSmdPad" value="0mil"/>
 <param name="mdSmdVia" value="0mil"/>
 <param name="mdSmdSmd" value="0mil"/>

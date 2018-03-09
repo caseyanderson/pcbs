@@ -828,9 +828,10 @@ Yageo CFR series &lt;a href="http://www.yageo.com/pdf/yageo/Leaded-R_CFR_2008.pd
 <contactref element="S1" pad="2"/>
 <contactref element="X1" pad="1"/>
 <wire x1="14.562" y1="25.106" x2="12.232" y2="25.106" width="0.8128" layer="16"/>
-<wire x1="12.232" y1="25.106" x2="9.398" y2="27.94" width="0.8128" layer="16"/>
-<wire x1="9.398" y1="27.94" x2="8.636" y2="27.94" width="0.8128" layer="16"/>
-<wire x1="8.636" y1="27.94" x2="6.604" y2="29.972" width="0.8128" layer="16"/>
+<wire x1="12.232" y1="25.106" x2="9.144" y2="27.94" width="0.8128" layer="16"/>
+<wire x1="9.144" y1="27.94" x2="7.366" y2="27.94" width="0.8128" layer="16"/>
+<wire x1="7.366" y1="27.94" x2="6.604" y2="28.956" width="0.8128" layer="16"/>
+<wire x1="6.604" y1="28.956" x2="6.604" y2="29.972" width="0.8128" layer="16"/>
 </signal>
 <signal name="N$10">
 <contactref element="D1" pad="A"/>
